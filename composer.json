@@ -1,4 +1,14 @@
 {
+  "name": "guapi5133/tony",
+  "description": "self-use frame",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Xiuluo",
+      "email": "5192412@qq.com"
+    }
+  ],
   "require": {
     "ebaocd/router": "dev-master",
     "illuminate/database": "^5.6.34",
