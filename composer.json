@@ -10,12 +10,12 @@
     }
   ],
   "require": {
-	"php":"^8.0"，
-    "illuminate/database": "9.0",
-    "self-frame/common": ">1.0",
-    "self-frame/absmvc": ">1.0",
-    "self-frame/database": ">1.0",
-	"self-frame/router": ">1.0",
+	"php":"^8.0"，    
+    "self-frame/common": ">=1.0",
+    "self-frame/absmvc": ">=1.0",
+    "self-frame/database": ">=1.0",
+	"self-frame/router": ">=1.0",
+	"illuminate/database": "9.0",
     "phpoffice/phpspreadsheet": ">1.0",
     "predis/predis": ">1.0",
     "ext-json": "*",
