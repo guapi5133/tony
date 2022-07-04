@@ -9,9 +9,10 @@
       "email": "5192412@qq.com"
     }
   ],
-  "require": {    
+  "require": {
+	"php":"^8.0"，
     "illuminate/database": "^9.0",
-   "self-frame/common": "^1.0",
+    "self-frame/common": "^1.0",
     "self-frame/absmvc": "^1.0",
     "self-frame/database": "^1.0",
 	"self-frame/router": "^1.0",

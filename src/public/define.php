@@ -60,3 +60,9 @@ const USER_STATUS = [
     STATUS_DISABLE => '禁用',
     STATUS_DELETE  => '删除',
 ];
+
+//是否开启调试模式
+const DEBUG = FALSE;
+
+//是否输出SQL语句，需要开启调试模式
+const SQL_DEBUG = FALSE;
